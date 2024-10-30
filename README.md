@@ -1,8 +1,10 @@
 Hi 👋 My name is Sittaroad
 ==========================
 
-Studied Computer - Science at the University of Phayao,Thailand UP66
---------------------------------------------------------------------
+Studied Computer - Science at the University of Phayao,Thailand
+---------------------------------------------------------------
+
+UP66
 
 * ✉️  You can contact me at [tekvine111@gmail.com](mailto:tekvine111@gmail.com)
 
