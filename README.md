@@ -1,4 +1,4 @@
-Hi 👋 My name is Sittaroad
+Hi 👋 I'm Sittaroad
 ==========================
 
 Studied Computer - Science at the University of Phayao,Thailand
